@@ -1,3 +1,3 @@
 # hello-word
-my first repository
+my first repository \n
 I write some words to test readme file modification.
